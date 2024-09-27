@@ -1,0 +1,41 @@
+body {
+    font-family: "Orbitron", sans-serif;
+    color: #82a5ca;
+    text-align: center;
+    margin: 0;
+}
+
+.btn {
+    font-family: inherit;
+    font-size: 25px;
+    font-weight: 500;
+    display: block;
+    padding: 6px 12px;
+    margin: 30px auto 0 auto;
+    border: none;
+    background: white;
+    cursor: pointer;
+    color: #82a5ca;
+    font-weight: bold;
+}
+
+.underline {
+    border-bottom: 4px solid #fff;
+}
+
+#main-logo {
+    width: 200px;
+}
+
+.hero {
+    background-image: url("images/galaxy-moving.webp");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+h1 {
+    font-size: 60px;
+}
+.terms {
+    font-size: 35px;
+}
